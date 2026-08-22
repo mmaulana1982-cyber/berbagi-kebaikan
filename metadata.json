@@ -1,0 +1,7 @@
+{
+  "name": "Sahabat Jariyah - Platform Donasi & Transparansi Penyaluran Dana",
+  "description": "Aplikasi donasi dan crowdfunding syariah dengan integrasi pembayaran digital, dasbor transparansi penyaluran dana real-time, manajemen program, dan backend Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
